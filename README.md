@@ -1,6 +1,9 @@
-👋 Hi there! I'm Dhrumil Patel
-💻 Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Cloud Infrastructure
+# 👋 Hi there! I'm Dhrumil Patel
+
+### 💻 Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Cloud Infrastructure
+
 🔍 Passionate about building scalable applications, optimizing system performance, and leveraging AI to solve complex problems.
+
 📍 Based in Alexandria, VA | 🎓 Master's in Data Science from Drexel University
 
 ## ✨ About Me
