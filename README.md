@@ -49,7 +49,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumil5614&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhrumil5614&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -81,9 +80,6 @@ I'm a passionate developer who loves to explore new technologies and build innov
   </a>
   <a href="https://twitter.com/dhrumil5614" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:dhrumil@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
